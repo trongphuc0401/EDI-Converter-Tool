@@ -1,0 +1,25 @@
+<Interchange>
+    <Header>
+        <SyntaxIdentifier>UNOC:3</SyntaxIdentifier>
+        <Sender>1234567890123:14</Sender>
+        <Receiver>9876543210987:14</Receiver>
+    </Header>
+    <Messages>
+        <Message>
+            <Header>
+                <ReferenceNumber>000000001</ReferenceNumber>
+                <Type>INVOIC:D:96A:UN</Type>
+            </Header>
+            <Document>
+                <NameCode>380</NameCode>
+                <Number>INV12345</Number>
+            </Document>
+            <Trailer>
+                <SegmentCount>3</SegmentCount>
+            </Trailer>
+        </Message>
+    </Messages>
+    <Trailer>
+        <MessageCount>1</MessageCount>
+    </Trailer>
+</Interchange>

@@ -1,0 +1,4 @@
+2025-05-13 10:43:00 [main] INFO  org.fucsh.validator.EdiValidator - Validation passed. Segments: 6, Messages: 1
+2025-05-13 10:43:13 [main] INFO  org.fucsh.validator.EdiValidator - Validation passed. Segments: 6, Messages: 1
+2025-05-13 10:43:41 [main] INFO  org.fucsh.validator.EdiValidator - Validation passed. Segments: 6, Messages: 1
+2025-05-13 10:47:55 [main] INFO  org.fucsh.validator.EdiValidator - Validation passed. Segments: 6, Messages: 1

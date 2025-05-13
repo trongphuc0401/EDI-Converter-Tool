@@ -1,0 +1,14 @@
+{
+  "messageTypes": {
+    "INVOIC": {
+      "xsltToXml": "xslt/edifact-to-xml.xsl",
+      "xsltToEdi": "xslt/xml-to-edifact.xsl",
+      "mandatorySegments": ["UNB", "UNH", "BGM", "UNT", "UNZ"]
+    },
+    "ORDERS": {
+      "xsltToXml": "xslt/orders-to-xml.xsl",
+      "xsltToEdi": "xslt/orders-to-edifact.xsl",
+      "mandatorySegments": ["UNB", "UNH", "BGM", "UNT", "UNZ"]
+    }
+  }
+}
